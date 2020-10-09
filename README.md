@@ -1,3 +1,2 @@
 # links
-
-[Order Aadhaar Card](tps://residentpvc.uidai.gov.in/order-pvcreprint.php)
+[Order Aadhar Card](https://residentpvc.uidai.gov.in/order-pvcreprint.php)
